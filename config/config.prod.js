@@ -1,5 +1,5 @@
 'use strict';
 exports.sw = {
-  maxAge: 3600,
+  maxAge: 60,
   buffer: true,
 };
