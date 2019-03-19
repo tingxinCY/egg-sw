@@ -51,12 +51,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-sw.git"
+    "url": "git+https://github.com/tingxinCY/egg-sw"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-sw#readme",
+  "homepage": "https://github.com/tingxinCY/egg-sw",
   "author": "tingxin_cy",
   "license": "MIT"
 }
