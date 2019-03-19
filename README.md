@@ -20,9 +20,7 @@
 [download-image]: https://img.shields.io/npm/dm/egg-sw.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-sw
 
-<!--
-Description here.
--->
+Static server plugin for egg, base on koa-static-cache
 
 ## Install
 
