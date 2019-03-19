@@ -1,6 +1,6 @@
 {
   "name": "egg-sw",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "server-worker.js bounce middleware for egg",
   "eggPlugin": {
     "name": "sw"
